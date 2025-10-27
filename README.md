@@ -1,5 +1,7 @@
 # Finnish National Gallery ETL Pipeline
 
+<img src="supabase_databases.png" width="400">
+
 A complete **ETL** pipeline that collects, cleans, and stores artworks data from the **Finnish National Gallery API** 
 into a **PostgreSQL (Supabase)** database.
 
